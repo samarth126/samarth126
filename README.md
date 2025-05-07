@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning - Transformers and LLM and AWS cloud services
+- 🌱 I’m currently learning - Transformers, LLM, RAG systems and MCP.
 - 👯 I’m looking to collaborate on - Ml and Full stack technologies like React, Express, Django, Next js, firebase, Mongo DB
 
 - 📫 How to reach me: [samarth.bhole@2001@gmail.com](mailto:samarth.bhole2001@gmail.com)
