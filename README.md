@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [samarth.bhole@2001@gmail.com](mailto:samarth.bhole2001@gmail.com)
 
-- Achivements- Best first time hack winner at MLH SHELLHACKS 2024 FIU Miami, First position Winner of TECHNEX 2023 NMIMS indore
+- Achivements- Best first time hack winner at MLH SHELLHACKS 2024 FIU Miami, First position Winner of TECHNEX 2023 NMIMS India
 <!-- - ⚡ Fun fact: -->
 
 [![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarth126&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/samarth126)
